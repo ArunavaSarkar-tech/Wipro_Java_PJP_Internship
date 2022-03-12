@@ -1,6 +1,11 @@
 
-Wipro - Pre Joining Program & Internship (Java)  
+Wipro - Pre Joining Program & Internship (Java)
 
-Code written during Pre Joining Program. Contains topic wise assignments, projects, milestones and logic building problems part of the Java stream. 
-Download and Extract to view the codes.
-Shared for my own future reference and if anyone needs help with a certain problem.
+
+--->  Select the respective TM# and also select what to upload [Project / Exercises]
+--->  All the files related to each Topic under every Tech Module should be in a separate Zip file
+--->  Select the correct Zip file to upload.
+
+--->  For projects, the zip file name should be like TM-Num_Proj name.zip e.g TM01_Proj1.zip
+--->  For Handson, the zip file name should be same as the Topic Name e.g Arrays.zip
+--->  The Zip file should contain only the src folder/files of your project
