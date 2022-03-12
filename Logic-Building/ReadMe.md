@@ -1,1 +1,1 @@
-------  Logic Building Solutions ------
+------ Logic Building Solutions ------
