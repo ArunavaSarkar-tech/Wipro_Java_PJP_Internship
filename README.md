@@ -6,7 +6,7 @@ __________________________________________
 
 --->   All the files related to each Topic under every Tech Module should be in a separate Zip file
 
---->   Select the correct Zip file to upload.
+--->   Select the correct Zip file to upload
 
 
 
